@@ -1,4 +1,4 @@
-# DealFinder
+# DealWise
 An app that can find you the best deals on sites like Ebay
 # Used-Deal Assistant — Validation Brief
 
